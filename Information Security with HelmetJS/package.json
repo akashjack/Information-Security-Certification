@@ -1,0 +1,22 @@
+{
+	"name": "Akash S",
+	"version": "0.0.1",
+	"description": "Information Security Project",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon myApp.js"
+	},
+	"dependencies": {
+		"bcrypt": "^5.1.1",
+		"express": "^4.21.2",
+		"helmet": "3.21.3",
+		"nodemon": "^3.1.7"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express",
+		"freecodecamp"
+	],
+	"license": "MIT"
+}
